@@ -1,6 +1,6 @@
 # ML_in_Textile
 About me:
-Basically, I am a Textile Engineering. During my PhD I tried to predict the antimicrobial activity, and nanoparticles characteristics by using the synthesis parameters such as (AgNO3 Molarity, concentration, temperature, amount etc.). But, unfortunately, due to the Covid-19 pandemic more than 1 valuable years the academic and adminstrative works haulted and I could not continue the required experiments.  
+Basically, I am a Textile Engineering. During my PhD I planned to predict the antimicrobial activity, and nanoparticles characteristics by using the synthesis parameters such as (AgNO3 Molarity, concentration, temperature, amount etc.). But, unfortunately, due to the Covid-19 pandemic the academic and adminstrative works haulted for more than 1 year and I could not continue the required experiments.  
 
 
 **About the dataset:**
